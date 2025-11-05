@@ -67,10 +67,7 @@ Entrega Final	24/05	Entrega da versão 1.0 com todas funcionalidades integradas	
 
 ## 🖥️ Como funciona
 
-O *NeoCall Inteligente* permite:  
-- *Usuário:* criar conta, abrir chamados, acompanhar e encerrar chamados.  
-- *Técnico:* visualizar, classificar, atualizar e fechar chamados.  
-- *Administrador:* gerenciar usuários, permissões e acompanhar métricas.  
+[funcionamento](./funcionamento.md) 
 
 ---
 
