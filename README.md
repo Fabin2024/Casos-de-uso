@@ -61,12 +61,10 @@ Entrega Final	24/05	Entrega da versão 1.0 com todas funcionalidades integradas	
   ---
   
 ## 🛠️ Tecnologias Utilizadas
-- *Linguagem:* C#  
-- *Frameworks:* ASP.NET Core, Entity Framework  
-- *Banco de Dados:* SQL Server  
-- *Ferramentas de Apoio:* Figma (prototipagem) e Astah (modelagem de diagramas)
+ [Tecnologias](./tecnologias.md)
+ 
+ ---
 
----
 ## 🖥️ Como funciona
 
 O *NeoCall Inteligente* permite:  
