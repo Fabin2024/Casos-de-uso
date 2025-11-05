@@ -73,14 +73,5 @@ Entrega Final	24/05	Entrega da versão 1.0 com todas funcionalidades integradas	
 
 ## 🚀 Como Executar Localmente
 
-```bash
-# clone o repositório
-git clone https://github.com/seu-repo.git
-cd helpdesk-inteligente
+[execuçãodoprojeto](./execuçãodoprojeto.md)
 
-# restaure pacotes e crie o banco
-dotnet restore
-dotnet ef database update
-
-# rode o projeto
-dotnet run
